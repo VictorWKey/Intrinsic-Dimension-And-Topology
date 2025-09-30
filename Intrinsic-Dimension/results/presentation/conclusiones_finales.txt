@@ -1,0 +1,10 @@
+ANÁLISIS DE DIMENSIÓN INTRÍNSECA - CONCLUSIONES
+==================================================
+
+Dataset: MNIST (dígitos manuscritos)
+Dimensión Original: 784 (28×28 píxeles)
+Dimensión Intrínseca: 24
+Factor de Compresión: 32.7x
+Reducción de Datos: 96.9%
+Error Final: 12.781168
+Interpretación: Los dígitos MNIST pueden representarse efectivamente en 24 dimensiones

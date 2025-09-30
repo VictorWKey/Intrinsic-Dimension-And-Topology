@@ -1,0 +1,6 @@
+Método de Análisis,Dimensión Sugerida,Interpretación
+Método del Codo,96,Punto de inflexión máximo
+Umbral de Estabilidad,24,Cambio <5% en error
+Máxima Eficiencia,2,Mejor ratio compresión/calidad
+Rate-Distortion,16,Balance óptimo rate-distortion
+🎯 RECOMENDACIÓN,24,Consenso de métodos
