@@ -1,0 +1,12 @@
+DIMENSIÓN INTRÍNSECA EN DATOS TABULARES - CONCLUSIONES
+============================================================
+
+Análisis: Dimensión Intrínseca en Datos Médicos Tabulares
+Dataset: Breast Cancer Wisconsin (30 características)
+Metodología: Autoencoders con validación PCA y clasificación
+Dimensión Intrínseca: 15 dimensiones
+Compresión: 2.0x
+Calidad: R² = 0.6076, Error = 9.535812
+Validación: Pérdida de accuracy < 3.5%
+Conclusión: Los datos médicos complejos pueden comprimirse efectivamente a 15D preservando información diagnóstica
+Diferencias vs Imágenes: Normalización crítica, arquitectura compacta, validación con modelos predictivos

@@ -1,0 +1,11 @@
+Aspecto,Valor
+Dataset,Breast Cancer Wisconsin
+Dimensión Original,30 características médicas
+Dimensión Intrínseca,15 dimensiones
+Método de Análisis,Autoencoder + PCA + Validación
+Factor de Compresión,2.0x
+Reducción de Datos,50.0%
+Error de Reconstrucción,9.535812
+R² Promedio,0.6076
+Pérdida de Accuracy,3.51%
+Interpretación,Los datos médicos tienen 15D de información esencial
