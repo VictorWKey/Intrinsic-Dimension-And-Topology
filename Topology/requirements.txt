@@ -1,0 +1,26 @@
+# Librerías básicas para análisis de datos y visualización
+numpy==1.24.3
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Librerías de machine learning
+scikit-learn==1.3.0
+
+# Técnicas de reducción de dimensionalidad y topología
+umap-learn==0.5.4
+phate==1.0.11
+
+# Visualización interactiva y avanzada
+plotly==5.15.0
+
+# Jupyter para desarrollo
+jupyter==1.0.0
+ipywidgets==8.0.7
+
+# Utilidades adicionales
+tqdm==4.65.0
+
+# Dependencias adicionales para compatibilidad
+scipy==1.11.1
+numba==0.57.1
